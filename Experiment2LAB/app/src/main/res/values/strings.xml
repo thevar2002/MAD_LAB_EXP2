@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Experiment2LAB</string>
+    <string name="student_details_form">Student Details Form</string>
+    <string name="name">Name</string>
+    <string name="reg_no">Reg. No.</string>
+    <string name="dept">Dept.</string>
+    <string name="submit">Submit</string>
+    <string name="namefield">NameField</string>
+    <string name="regnnumber">Regn. Number</string>
+</resources>
